@@ -30,5 +30,3 @@ Desenvolvedor Full Stack e estudante de Engenharia de Software. Tenho experiênc
 📧 Email  
 christhiangabriel9@gmail.com  
 
-💼 LinkedIn  
-https://linkedin.com/in/christhiangabriel  
